@@ -167,7 +167,7 @@ def schedule_client_immediately(client_name, slot_type_name, day, pref_start, pr
 # ===================== PREDEFINED SLOTS =====================
 PREFERRED_SLOTS={
     "8:00-11:00": (time(8,0),time(11,0)),
-    "11:00-13:00": (time(11,0),time(13,0)),
+    "11:00-14:00": (time(11,0),time(14,0)),
     "13:00-16:00": (time(13,0),time(16,0)),
     "16:00-20:00": (time(16,0),time(20,0)),
 }
